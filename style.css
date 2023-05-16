@@ -99,3 +99,20 @@ h2{
     margin-top: 20px;
     color:white;
 }
+@media  (max-width: 858px){
+    .box
+    {
+    
+        height:500px;
+        width:400px;
+    }
+    h1
+   {
+    font-size: 35px;
+    margin-top: -80px;
+  }
+  label
+{
+    font-size: 25px;
+}
+}
